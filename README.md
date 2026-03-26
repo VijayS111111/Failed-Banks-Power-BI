@@ -9,4 +9,5 @@ This Power BI project was inspired by and learned from:
 - **Trainers:** Devon Knight (President of Pragmatic Works) and Allison Gonzalez (Microsoft Certified Trainer at Pragmatic Works)
 <img src="overview.png" alt="Power BI Report" width="600"/>
 Dataset-https://www.fdic.gov/bank-failures/failed-bank-list
+
 Thank you to the instructors for providing such a detailed and hands-on learning experience!
